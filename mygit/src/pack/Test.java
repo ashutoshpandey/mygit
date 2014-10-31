@@ -11,6 +11,7 @@ public class Test{
 		fr.setSize(500,500);
 		fr.setVisible(true);
 		fr.setLocation(500, 500);
+		fr.setTitle("Welcome...");
 		fr.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
